@@ -164,12 +164,11 @@ body {
   .follow-text {
     color: #9E9E9E
 }
-
 .footer{
   position:relative;
-  bottom: 0;
-  align-items: center;
-  justify-content: center;
+  bottom:5;
+  align-items:inherit;
+  justify-content:flex-end;
   text-align: center;
   margin-top: 150%;
 
